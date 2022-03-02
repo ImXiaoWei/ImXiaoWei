@@ -3,7 +3,6 @@
 ### About Me
 
 - 💼 FrontEnd Engineer
-- 🌱 I’m currently learning Vue.js.
 
 ### Languages and Tools
 
